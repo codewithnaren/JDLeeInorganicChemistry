@@ -1,4 +1,4 @@
-const url = 'https://codewithnaren.github.io/JDLeeInorganicChemistry/JDLeeInorganicChemistry.pdf';
+const url = 'https://codewithnaren.github.io/jdleeinorganicchemistry/jdleeinorganicchemistry.pdf';
 
 
 let pdfDoc = null,
